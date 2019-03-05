@@ -1,0 +1,7 @@
+[package]
+name = "library"
+version = "0.1.0"
+authors = ["as-potehin <piroteh2006@yandex.ru>"]
+edition = "2018"
+
+[dependencies]
